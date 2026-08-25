@@ -1,0 +1,16 @@
+langgraph
+langchain
+langchain-groq
+openai
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+xgboost
+pycaret
+torch
+streamlit
+python-dotenv
+joblib
